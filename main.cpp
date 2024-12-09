@@ -21,7 +21,7 @@ int main(){
     Botol b;
     Alat_Tulis a;
     Lainnya c;
-    
+
 
     string nama, email, NIU;
     ifstream file("botol.txt");
