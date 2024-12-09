@@ -1,0 +1,3 @@
+ID: 828,Jenis: Pensil,Merk: Greeble,Warna: Merah,Ukuran: 5cm,Material: kayu,Lokasi: 4B2
+ID: 2899,Jenis: penggaris,Merk: vtec,Warna: bening,Ukuran: 30cm,Material: plastik,Lokasi: 9b1
+ID: 3581,Jenis: kalkulator,Merk: casio,Warna: putih,Ukuran: sedang,Material: plastik,Lokasi: 10b2

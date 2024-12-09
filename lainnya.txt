@@ -1,0 +1,2 @@
+ID: 3101,Nama Benda: mouse,Merk: logi,Warna: hitam,Ukuran: sedang,Material: plastik,Lokasi: 11b1
+ID: 3927,Nama Benda: jaket,Merk: dior,Warna: hitam,Ukuran: s,Material: sutra,Lokasi: 5b3

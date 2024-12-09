@@ -1,0 +1,26 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "C++ Launch", // Nama konfigurasi
+        "type": "cppdbg", // Tipe debugger
+        "request": "launch", // Jenis permintaan (run/debug)
+        "program": "${fileDirname}\\${fileBasenameNoExtension}.exe", // File program .exe yang akan dijalankan
+        "args": [], // Argumen (jika ada)
+        "stopAtEntry": false,
+        "cwd": "${workspaceFolder}", // Direktori kerja saat menjalankan
+        "environment": [],
+        "externalConsole": true, // Menampilkan terminal eksternal
+        "MIMode": "gdb", // Mode debugger
+        "setupCommands": [
+          {
+            "description": "Enable pretty-printing for gdb",
+            "text": "-enable-pretty-printing",
+            "ignoreFailures": true
+          }
+        ],
+        "preLaunchTask": "Build C++" // Menjalankan task build sebelum debug
+      }
+    ]
+  }
+  

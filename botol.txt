@@ -1,0 +1,4 @@
+ID: 48,Merk: corkcicle,Warna: pink,Ukuran: 800ml,Material: stainless,Lokasi: kantin
+ID: 2579,Merk: locknlock,Warna: lilac,Ukuran: 500ml,Material: aluminium,Lokasi: 8b3
+ID: 3333,Merk: ecentio,Warna: hijau,Ukuran: 800ml,Material: plastik,Lokasi: 4b1
+ID: 22273,Merk: lionStar,Warna: hitam,Ukuran: 500ml,Material: plastik,Lokasi: 9B2

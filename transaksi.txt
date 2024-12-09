@@ -1,0 +1,2 @@
+ID Barang: 5032, Kategori: Botol, Nama Pengambil: sdfghj, NIU Pengambil: werty
+ID Barang: 1106, Kategori: Lainnya, Nama Pengambil: Affan, NIU Pengambil: 123456
